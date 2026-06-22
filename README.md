@@ -1,12 +1,18 @@
 <!-- Header -->
 <div align="center">
 
-# Hi, I'm Haseeb 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185FA5,100:0C447C&height=200&section=header&text=Hi%20I'm%20Haseeb!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50&descSize=20&descColor=ffffff" width="100%"/>
 
-### Full Stack Developer | React · Node.js · Tailwind CSS
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=185FA5&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+Tailwind+CSS;Building+Clean+%26+Scalable+Apps;Open+to+Work+%F0%9F%92%BC)](https://git.io/typing-svg)
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square)
-![Building Projects](https://img.shields.io/badge/Building%20Projects-blue?style=flat-square)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=HASEEB112234&label=Profile%20Views&color=185FA5&style=flat-square)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%2300B16A?style=flat-square&logo=github&logoColor=white)
+&nbsp;
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Developer-%23185FA5?style=flat-square&logo=code&logoColor=white)
 
 </div>
 
@@ -54,15 +60,38 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats & Achievements
 
 <div align="center">
 
-![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HASEEB112234&show_icons=true&theme=default&hide_border=true&count_private=true)
+<!-- Manual Achievement Badges -->
+![Projects](https://img.shields.io/badge/Projects%20Built-5%2B-%23185FA5?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-1%2B%20Years-%2300B16A?style=for-the-badge&logo=clock&logoColor=white)
+&nbsp;
+![Commits](https://img.shields.io/badge/Private%20Commits-100%2B-%23F7DF1E?style=for-the-badge&logo=git&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HASEEB112234&layout=compact&hide_border=true&theme=default)
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HASEEB112234&hide_border=true&theme=default)
+<!-- GitHub Trophies -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HASEEB112234&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/HASEEB112234)
+
+<br/>
+
+<!-- GitHub Streak (will show once 1 repo is public) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HASEEB112234&hide_border=true&theme=default&background=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-185FA5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
@@ -70,6 +99,6 @@
 
 <div align="center">
 
-⭐ From [@HASEEB112234](https://github.com/HASEEB112234) with ❤️
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C447C,100:185FA5&height=100&section=footer" width="100%"/>
 
 </div>
