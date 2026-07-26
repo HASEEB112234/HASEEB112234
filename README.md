@@ -74,7 +74,7 @@
 <br/><br/>
 
 <!-- GitHub Trophies -->
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HASEEB112234&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/HASEEB112234)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HASEEB112234&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
