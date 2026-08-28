@@ -18,16 +18,6 @@
 
 ---
 
-## 👋 About Me
-
-- 💻 Full Stack Developer working with the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🚀 Building web apps, admin dashboards, and client projects on **Fiverr**
-- 🎨 I like clean UI, scalable backend structure, and shipping fast
-- 📚 Also have experience teaching web development / coding
-- 🌱 Currently exploring new tools to build faster and better
-
----
-
 ## 🛠 Tech Stack
 
 **Frontend**
@@ -54,41 +44,44 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-> Repos abhi private hain — jaise public karo ge, yahan real project cards add kar dena (name, description, live link, tech badges).
+### 📊 Marketing Dashboard
+> A responsive analytics dashboard built with React & Chart.js featuring campaign tracking and real-time stats.
 
-<!-- Example structure to reuse once repos are public:
-
-### 📊 Project Name
-> One-line description of what it does and the problem it solves.
-
-`Tech` `Tech` `Tech`
-
-[Live Demo](#) · [Source Code](#)
-
--->
+`React` `Tailwind CSS` `Chart.js` `Lucide React`
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Project Two
+> Add your project description here — what it does, what tech you used, what problem it solves.
+
+`Node.js` `MongoDB` `Express`
+
+---
+
+## 📊 Stats & Achievements
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HASEEB112234&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASEEB112234&layout=compact&hide_border=true&theme=default" width="30%"/>
+<!-- Manual Achievement Badges -->
+![Projects](https://img.shields.io/badge/Projects%20Built-5%2B-%23185FA5?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Experience](https://img.shields.io/badge/Experience-1%2B%20Years-%2300B16A?style=for-the-badge&logo=clock&logoColor=white)
+&nbsp;
+![Commits](https://img.shields.io/badge/Private%20Commits-100%2B-%23F7DF1E?style=for-the-badge&logo=git&logoColor=black)
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HASEEB112234&hide_border=true&theme=default&background=ffffff)](https://git.io/streak-stats)
-
-<br/>
-
+<!-- GitHub Trophies -->
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HASEEB112234&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+<br/>
 
-> ⚠️ Note: Stats/streak cards need at least one **public** repo (or public commit activity) to show real numbers — right now they'll look empty since all repos are private.
+<!-- GitHub Streak (will show once 1 repo is public) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HASEEB112234&hide_border=true&theme=default&background=ffffff)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -97,8 +90,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-javed-061b03295/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-185FA5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseebjaved0329@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
 
 </div>
 
